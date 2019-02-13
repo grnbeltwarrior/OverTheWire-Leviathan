@@ -1,0 +1,9 @@
+Logged in via the information on http://overthewire.org/wargames/leviathan/
+
+Once connected to the remote host via ssh, started poking around
+The message of the day gives a good indication of what you can/can't do.
+
+For the initial level I figured it would be easy. Kinda stumped at first but remember to enumerate.
+What are some of the easiest linux commands to see what's around and where you are when you login.
+
+Then some commands when looking for something in a file. These are some of the basic commands from Bandit.
